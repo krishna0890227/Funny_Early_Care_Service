@@ -13,13 +13,12 @@ Users of this website will be able to find all the information they need to know
 
  * **The Header**
     * The header shows the name of the academy, using the other color chosen: Green. And continuing the computer code font theme.
-    * The header explains the club is for babies aged 0-3 years old.
-    * The section provides the user with clear information about what the site is and who the club it is for.
+    * The header explains the academy is for babies aged 0-3 years old.
+    * The section provides the user with clear information about what the site is and who the academy it is for.
 ![nav and header](https://github.com/user-attachments/assets/57f5466e-44c2-4baa-a7de-36449d445b94)
 
   
   * **The About Us Section**
-     * The About Us section gives details what the club offers their members, and has a table with the club meeting times.
      * This section shows the user the important information they need to know about the academy: What they offer and when they are open for different age groups.
        
 ![aboutus](https://github.com/user-attachments/assets/68991424-8d8f-410a-af31-203717929786)
@@ -69,7 +68,7 @@ Users of this website will be able to find all the information they need to know
       * From the source section drop-down menu, Select the Main Branch
       * Once the master branch has been selected, the page provided the link to the completed website.
    
-  The live link can be found here  - [Coding Club]([[https://github.com/krishna0890227/Funny_Early_Care_Service/edit/main/README.md]
+  The live link can be found here  - [Shining Sprouts](https://krishna0890227.github.io/Shining_Sprouts)
 ![Chrome_Scoring_test](https://github.com/user-attachments/assets/8575649d-2a20-409a-82f1-ea5e17afbe68)
   **Checked with incognito version of chrome**
 ![incognito_chrome_scoring](https://github.com/user-attachments/assets/2bb98fad-f9c7-4c71-a8d2-7a7d4e2f1cd9)
