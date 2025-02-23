@@ -52,7 +52,7 @@ Users of this website will be able to find all the information they need to know
   * I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse  in devtools.
 
 **Unfixed Bugs**
-    * No unfixed bugs
+    <br> No unfixed bugs.
    
   # Deployment
   * The site was deployed to GitHub pages. The steps to deploy are as follows:
