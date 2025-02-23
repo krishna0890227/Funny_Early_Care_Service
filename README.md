@@ -51,7 +51,7 @@ Users of this website will be able to find all the information they need to know
       * I discovered that was because I had used an absolute file path such as this in my code.
     ![unknown _a_letter](https://github.com/user-attachments/assets/0cfb1c01-1eb0-43ab-a5d1-17029575ea10)
 
-      * Removing the a/ and fixed the problem.
+      * Removing the /a and fixed the problem.
 ![validator_check](https://github.com/user-attachments/assets/55084327-b920-4fe9-a2ab-d8d6e4eaeb9a)
 
 # Validator Testing
@@ -73,6 +73,7 @@ Users of this website will be able to find all the information they need to know
    
   The live link can be found here  - [Coding Club]([[https://github.com/krishna0890227/Funny_Early_Care_Service/edit/main/README.md]
 ![Chrome_Scoring_test](https://github.com/user-attachments/assets/8575649d-2a20-409a-82f1-ea5e17afbe68)
+  **Checked with incognito version of chrome**
 ![incognito_chrome_scoring](https://github.com/user-attachments/assets/2bb98fad-f9c7-4c71-a8d2-7a7d4e2f1cd9)
 
 # Credits
