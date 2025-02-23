@@ -51,7 +51,7 @@ Users of this website will be able to find all the information they need to know
 * **Accessibility**
   * I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse  in devtools.
 
-    **Unfixed Bugs**
+**Unfixed Bugs**
     * No unfixed bugs
    
   # Deployment
