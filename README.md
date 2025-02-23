@@ -60,7 +60,7 @@ Users of this website will be able to find all the information they need to know
       * From the source section drop-down menu, Select the Master Branch
       * Once the master branch has been selected, the page provided the link to the completed website.
    
-  The live link can be found here  - [Coding Club] (https://github.com/krishna0890227/Funny_Early_Care_Service/edit/main/README.md).
+  The live link can be found here  - [Coding Club](https://github.com/krishna0890227/Funny_Early_Care_Service/edit/main/README.md).
 
 # Credits
 **Content**
