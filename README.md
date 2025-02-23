@@ -7,10 +7,10 @@ Users of this website will be able to find all the information they need to know
 
 # Features
 *  **Navigation**
-  * Featured at the top of the page, the navigation shows the service in the center name in the left corner: Funny Early Child Care Centre which links to the top of the page.
-  * The other navigation links are to the right:  About us, Sign up and Contact which links to a different section of the same page.
-  * The navigation is in a font that looks like code, and a color that contrasts with the background.
-  *  The navigation clearly tells the user the name of the centre and website and makes the different sections of information easy to find.
+     * Featured at the top of the page, the navigation shows the service in the center name in the left corner: Funny Early Child Care Centre which links to the top of the page.
+     * The other navigation links are to the right:  About us, Sign up and Contact which links to a different section of the same page.
+     * The navigation is in a font that looks like code, and a color that contrasts with the background.
+     * The navigation clearly tells the user the name of the centre and website and makes the different sections of information easy to find.
 
  * **The Header**
     * The header shows the name of the centre, using the other color chosen: Green. And continuing the computer code font theme.
