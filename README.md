@@ -25,7 +25,7 @@ Users of this website will be able to find all the information they need to know
       * The sign-up section has a form to collect details from parents so they can sign up for the Care Centre.
       * The form collects the baby's name, and parent/guardian's name, and an email address.
 
-    * **The Contact Section** 
+   * **The Contact Section**
        * The contact section encourages users to get in contact and provides a phone number, email address and street address where they can be found. 
        * The contact section includes social media icons to users can find the care centre  on Facebook, Twitter and  Instagram.
        * The contact section is valuable to the user as it gives them the ability to find and contact the Care Centre if they need to. 
