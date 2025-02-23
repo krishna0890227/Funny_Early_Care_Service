@@ -6,26 +6,26 @@ Users of this website will be able to find all the information they need to know
 
 
 # Features
-* Navigation
+*  **Navigation**
   * Featured at the top of the page, the navigation shows the service in the center name in the left corner: Funny Early Child Care Centre which links to the top of the page.
   * The other navigation links are to the right:  About us, Sign up and Contact which links to a different section of the same page.
   * The navigation is in a font that looks like code, and a color that contrasts with the background.
   *  The navigation clearly tells the user the name of the centre and website and makes the different sections of information easy to find.
 
- * The Header
+ * **The Header**
     * The header shows the name of the centre, using the other color chosen: Green. And continuing the computer code font theme.
     * The header explains the club is for babies aged 0-3 years old.
     * The section provides the user with clear information about what the site is and who the club it is for.
   
-  * The About Us Section
+  * **The About Us Section**
      * The About Us section gives details what the club offers their members, and has a table with the club meeting times.
      * This section shows the user the important information they need to know about the centre: What they offer and when they are open for different age groups.
 
-   * The Sign Up Form
+   * **The Sign Up Form**
       * The sign-up section has a form to collect details from parents so they can sign up for the Care Centre.
       * The form collects the baby's name, and parent/guardian's name, and an email address.
 
-    * The Contact Section 
+    * **The Contact Section** 
        * The contact section encourages users to get in contact and provides a phone number, email address and street address where they can be found. 
        * The contact section includes social media icons to users can find the care centre  on Facebook, Twitter and  Instagram.
        * The contact section is valuable to the user as it gives them the ability to find and contact the Care Centre if they need to. 
