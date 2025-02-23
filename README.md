@@ -37,18 +37,18 @@ Users of this website will be able to find all the information they need to know
    * I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
 
 # Bugs 
-   * Solved Bugs
+   * **Solved Bugs**
       * When I deployed my project to GitHub Pages I discovered my project was broken, the links to the other files (CSS and images) did not work.
       * I discovered that was because I had used an absolute file path such as this in my code.
     
       * Removing the starting / and fixed the problem.
 
 # Validator Testing
-* HTML
+* **HTML**
     * No errors were returned when passing through the official W3C validator. 
-* CSS
+* **CSS**
     * No errors were found when passing through the official (jigsaw) validator
-* Accessibility
+* **Accessibility**
   * I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse  in devtools.
 
     **Unfixed Bugs**
