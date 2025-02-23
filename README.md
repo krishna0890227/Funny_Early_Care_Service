@@ -3,18 +3,16 @@ The Shining Sprouts Academy website is a landing page for parents who having bab
 
 Users of this website will be able to find all the information they need to know about child care services, servicing hours, pricing, contact information, and a signup form. Our goal is to service working parents who want someone to care for their babies. 
 
-
-
 # Features
 *  **Navigation**
      * Featured at the top of the page, the navigation shows the name of the academy: Shining Sprouts Academy which links to the top of the page.
      * The other navigation links are to the right:  About us, Sign up and Contact which links to a different section of the same page.
      * The navigation is in a font that looks like code, and a color that contrasts with the background.
-     * The navigation clearly tells the user the name of the centre and website and makes the different sections of information easy to find.
+     * The navigation clearly tells the user the name of the academy and website and makes the different sections of information easy to find.
        
 
  * **The Header**
-    * The header shows the name of the centre, using the other color chosen: Green. And continuing the computer code font theme.
+    * The header shows the name of the academy, using the other color chosen: Green. And continuing the computer code font theme.
     * The header explains the club is for babies aged 0-3 years old.
     * The section provides the user with clear information about what the site is and who the club it is for.
 ![nav and header](https://github.com/user-attachments/assets/57f5466e-44c2-4baa-a7de-36449d445b94)
@@ -22,20 +20,20 @@ Users of this website will be able to find all the information they need to know
   
   * **The About Us Section**
      * The About Us section gives details what the club offers their members, and has a table with the club meeting times.
-     * This section shows the user the important information they need to know about the centre: What they offer and when they are open for different age groups.
+     * This section shows the user the important information they need to know about the academy: What they offer and when they are open for different age groups.
        
 ![aboutus](https://github.com/user-attachments/assets/68991424-8d8f-410a-af31-203717929786)
 
    * **The Sign Up Form**
-      * The sign-up section has a form to collect details from parents so they can sign up for the Care Centre.
+      * The sign-up section has a form to collect details from parents so they can sign up to join the academy.
       * The form collects the baby's name, and parent/guardian's name, and an email address.
 
 ![signup](https://github.com/user-attachments/assets/b892ca79-10ce-4926-8b71-5e41ba8e221b)
 
    * **The Contact Section**
        * The contact section encourages users to get in contact and provides a phone number, email address and street address where they can be found. 
-       * The contact section includes social media icons to users can find the care centre  on Facebook, Twitter and  Instagram.
-       * The contact section is valuable to the user as it gives them the ability to find and contact the Care Centre if they need to.
+       * The contact section includes social media icons to users can find the academy information on Facebook, Twitter and  Instagram.
+       * The contact section is valuable to the user as it gives them the ability to find and contact the academy if they need to.
           
 ![contactus](https://github.com/user-attachments/assets/ccea63f6-c271-4c4d-8d8e-c1cbdb55f9ad)
 
@@ -47,8 +45,8 @@ Users of this website will be able to find all the information they need to know
 
 # Bugs 
    * **Solved Bugs**
-      * When I deployed my project to GitHub Pages I discovered my project was broken, the links to the other files (CSS and images) did not work.
-      * I discovered that was because I had used an absolute file path such as this in my code.
+      * When I tested HTML and CSS files, the following did not work.
+      * I discovered that /a is outside after the table tag.
     ![unknown _a_letter](https://github.com/user-attachments/assets/0cfb1c01-1eb0-43ab-a5d1-17029575ea10)
 
       * Removing the /a and fixed the problem.
@@ -68,7 +66,7 @@ Users of this website will be able to find all the information they need to know
   # Deployment
   * The site was deployed to GitHub pages. The steps to deploy are as follows:
       * In the Github repository, navigate to the Setting tab.
-      * From the source section drop-down menu, Select the Master Branch
+      * From the source section drop-down menu, Select the Main Branch
       * Once the master branch has been selected, the page provided the link to the completed website.
    
   The live link can be found here  - [Coding Club]([[https://github.com/krishna0890227/Funny_Early_Care_Service/edit/main/README.md]
@@ -78,7 +76,7 @@ Users of this website will be able to find all the information they need to know
 
 # Credits
 **Content**
-* The code to make the social media links was taken from the CI Love Running Project
+* The code to make the social media links was taken from the [Love Running Project](https://github.com/krishna0890227/love-running)
 
 **Media**
-* The image in the header was taken from Pexels. 
+* The image in the header was taken from [Adobe Stocks](https://stock.adobe.com/ie/search?k=children+playing). 
